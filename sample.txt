@@ -8,3 +8,4 @@ combined commit
 GH commit
 second GH commit
 test
+final commit
